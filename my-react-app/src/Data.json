@@ -1,0 +1,29 @@
+{
+    "Product": [
+        {
+            "id": "1",
+            "name": "MT-07",
+            "price": "70 000"
+        },
+        {
+            "id": "2",
+            "name": "X-Adv",
+            "price": "110 000"
+        },
+        {
+            "id": "3",
+            "name": "CBR 650R",
+            "price": "95,000"
+        },
+        {
+            "id": "4",
+            "name": "Ninja 400",
+            "price": "85,000"
+        },
+        {
+            "id": "5",
+            "name": "Ducati Monster",
+            "price": "140,000"
+        }
+    ]
+}
